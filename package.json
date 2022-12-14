@@ -39,7 +39,7 @@
     "lodash": "^4.17.21",
     "marked": "^4.0.10",
     "marked-terminal": "^5.0.0",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.5",
     "p-each-series": "^2.1.0",
     "p-reduce": "^2.0.0",
     "read-pkg-up": "^7.0.0",
